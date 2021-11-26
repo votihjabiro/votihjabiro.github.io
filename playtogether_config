@@ -2,8 +2,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": true,
-      "published": true,
+      "com": false,
+      "published": false,
       
       "version": 1,
       "newAppLink": "com.Trailmix.LoveAndPiesMerges",
@@ -33,7 +33,7 @@
       
      "anticipatefantrouble":false,
 
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/2557667036",
         "admb_inters": "ca-app-pub-7144089957930196/8931503693",
@@ -49,7 +49,7 @@
       
       "unity": false,
       "adsunity": {
-        "unity_id": "3667089",
+        "unity_id": "3667089s",
         "unity_inters": "video"
       }
     }
