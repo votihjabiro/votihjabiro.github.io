@@ -18,7 +18,7 @@
       "nbOrnAds":"mix",
       
       "med":false,
-      "NativeCount": 2,
+      "NativeCount": 1,
       
       "showOnlyOpen":false,
       
@@ -42,7 +42,7 @@
         "admb_openad": "ca-app-pub-7144089957930196/7336502372"
       },
       
-      "onBackOpenAds":true,
+      "onBackOpenAds":false,
       "admbNbOrB":"nb",
       
       
